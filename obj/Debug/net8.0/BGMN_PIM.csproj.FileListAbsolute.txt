@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Documentos\faculdade\sem4\BGMN_PIM\bin\Debug\net8.0\BGMN_PIM.exe
+C:\Users\nicol\OneDrive\Documentos\faculdade\sem4\BGMN_PIM\bin\Debug\net8.0\BGMN_PIM.deps.json
+C:\Users\nicol\OneDrive\Documentos\faculdade\sem4\BGMN_PIM\bin\Debug\net8.0\BGMN_PIM.runtimeconfig.json
+C:\Users\nicol\OneDrive\Documentos\faculdade\sem4\BGMN_PIM\bin\Debug\net8.0\BGMN_PIM.dll
+C:\Users\nicol\OneDrive\Documentos\faculdade\sem4\BGMN_PIM\bin\Debug\net8.0\BGMN_PIM.pdb
+C:\Users\nicol\OneDrive\Documentos\faculdade\sem4\BGMN_PIM\obj\Debug\net8.0\BGMN_PIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\faculdade\sem4\BGMN_PIM\obj\Debug\net8.0\BGMN_PIM.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\faculdade\sem4\BGMN_PIM\obj\Debug\net8.0\BGMN_PIM.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\faculdade\sem4\BGMN_PIM\obj\Debug\net8.0\BGMN_PIM.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\faculdade\sem4\BGMN_PIM\obj\Debug\net8.0\BGMN_PIM.dll
+C:\Users\nicol\OneDrive\Documentos\faculdade\sem4\BGMN_PIM\obj\Debug\net8.0\refint\BGMN_PIM.dll
+C:\Users\nicol\OneDrive\Documentos\faculdade\sem4\BGMN_PIM\obj\Debug\net8.0\BGMN_PIM.pdb
+C:\Users\nicol\OneDrive\Documentos\faculdade\sem4\BGMN_PIM\obj\Debug\net8.0\BGMN_PIM.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Documentos\faculdade\sem4\BGMN_PIM\obj\Debug\net8.0\ref\BGMN_PIM.dll
